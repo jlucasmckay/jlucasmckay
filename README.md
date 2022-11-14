@@ -1,6 +1,8 @@
 Hi, I’m @jlucasmckay. 
 I am a translational scientist and engineer working on Parkinson's disease and related conditions.
-You can access a lot of my work and contact me via my (webpage)[https://jlucasmckay.bmi.emory.edu/].
+You can access a lot of my work and contact me via my [webpage](https://jlucasmckay.bmi.emory.edu/).
+
+
 Thanks!
 
 <!---
